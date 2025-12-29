@@ -21,5 +21,11 @@ The script applies the mathematical concept of interval halving:
 - **Python 3.14.2**
 - **Control Flow:** Loops & Conditionals
 
+## Media
+
+<img width="429" height="127" alt="image" src="https://github.com/user-attachments/assets/4894990d-23c8-442b-aabd-641505d09e66" />
+
+<img width="500" height="312" alt="image" src="https://github.com/user-attachments/assets/ec8f9577-7d8b-41a3-8ded-11cdbee38a46" />
+
  # Follow me [linkedIn](https://www.linkedin.com/in/khaled-elbadawy).
    
